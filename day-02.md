@@ -1,4 +1,3 @@
-
 ```
 1. Intro to Read and Write scalability
 
@@ -17,6 +16,7 @@
 5. Sharding and indexes
         Sharding and Replica Set Topologies
         Administering a sharded cluster
+        
 6. Shard / Chunk Migration
 
 7. Backup and Restore Plans
